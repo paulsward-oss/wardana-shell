@@ -20,7 +20,7 @@ export const pillars = {
     id: 'personal',
     name: 'Personal',
     icon: '🏠',
-    url: null,
+    url: 'https://wardana-personal.pages.dev',
     status: 'active',
   },
   investments: {
