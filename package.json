@@ -1,0 +1,18 @@
+{
+  "name": "wardana-shell",
+  "version": "0.1.0",
+  "description": "Shared visual shell — sidebar, theme system, layout — for Wardana Life HQ and pillar dashboards.",
+  "type": "module",
+  "main": "src/index.jsx",
+  "exports": {
+    ".": "./src/index.jsx"
+  },
+  "files": [
+    "src"
+  ],
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "license": "MIT"
+}
