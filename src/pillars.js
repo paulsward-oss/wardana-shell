@@ -39,4 +39,4 @@ export const pillars = {
   },
 };
 
-export const navOrder = ['home', 'tax', 'personal', 'investments', 'work'];
+export const navOrder = ['home', 'personal', 'investments', 'work', 'tax'];
