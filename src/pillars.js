@@ -27,8 +27,8 @@ export const pillars = {
     id: 'investments',
     name: 'Investments',
     icon: '📈',
-    url: null,
-    status: 'planned',
+    url: 'https://wardana-investments.pages.dev',
+    status: 'active',
   },
   work: {
     id: 'work',
